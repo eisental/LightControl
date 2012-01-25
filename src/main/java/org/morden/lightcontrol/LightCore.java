@@ -9,9 +9,9 @@ import org.bukkit.block.Block;
 import org.bukkit.Location;
 import org.tal.redstonechips.circuit.Circuit;
 import org.tal.redstonechips.wireless.Receiver;
-import org.tal.redstonechips.util.BitSet7;
-import org.tal.redstonechips.util.BitSetUtils;
-import org.tal.redstonechips.util.Locations;
+import org.tal.redstonechips.bitset.BitSet7;
+import org.tal.redstonechips.bitset.BitSetUtils;
+import net.eisental.common.bukkit.Locations;
 
 /**
  *
